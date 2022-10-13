@@ -1,0 +1,69 @@
+	
+
+California Test Score Data
+
+Description
+
+The dataset contains data on test performance, school characteristics and student demographic backgrounds for school districts in California.
+
+
+
+district
+
+    character. District code.
+
+school
+
+    character. School name.
+
+county
+
+    factor indicating county.
+
+grades
+
+    factor indicating grade span of district.
+
+students
+
+    Total enrollment.
+
+teachers
+
+    Number of teachers.
+
+calworks
+
+    Percent qualifying for CalWorks (income assistance).
+
+lunch
+
+    Percent qualifying for reduced-price lunch.
+
+computer
+
+    Number of computers.
+
+expenditure
+
+    Expenditure per student.
+
+income
+
+    District average income (in USD 1,000).
+
+english
+
+    Percent of English learners.
+
+
+read
+
+    Average reading score.
+
+
+
+Details
+
+The data used here are from all 420 K-6 and K-8 districts in California with data available for 1998 and 1999. Test scores are on the Stanford 9 standardized test administered to 5th grade students. School characteristics (averaged across the district) include enrollment, number of teachers (measured as “full-time equivalents”), number of computers per classroom, and expenditures per student. Demographic variables for the students are averaged across the district. The demographic variables include the percentage of students in the public assistance program CalWorks, the percentage of students that qualify for a reduced price lunch, and the percentage of students that are English learners (that is, students for whom English is a second language).
+
